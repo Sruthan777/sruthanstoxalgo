@@ -1,0 +1,1 @@
+This is the full backup for SruthanStox Algo including frontend, backend, alerts, and broker integration.
